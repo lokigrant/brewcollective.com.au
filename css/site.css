@@ -1,3 +1,5 @@
+
+
 @font-face {
   font-family: 'klinic_slabmedium';
   src: url('../fonts/klinicslabmedium-webfont.eot');
@@ -187,10 +189,18 @@ hr {
     width: 300px;
     height: 300px;
   }
+  .header {
+  background: url('../img/header.jpg') center top no-repeat;
+  background-size: 100% auto;
+}
 }
 @media (min-width: 1200px) {
   .header .logo {
     width: 357px;
     height: 357px;
   }
+    .header {
+  background: url('../img/header.jpg') center top no-repeat;
+  background-size: 100% auto;
+}
 }
