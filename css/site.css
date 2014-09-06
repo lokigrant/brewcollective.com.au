@@ -90,7 +90,7 @@ hr {
   width: 50%;
 }
 .header {
-  background: url('../img/header.jpg') center center no-repeat;
+  background: url('http://www.charliecoffee.com.au/image/brewcollective-header.jpg') center center no-repeat;
   background-size: cover;
 }
 .header h1,
