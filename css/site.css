@@ -192,7 +192,7 @@ hr {
     height: 300px;
   }
   .header {
-  background: url('../img/header.jpg') center top no-repeat;
+  background: url('http://www.charliecoffee.com.au/image/brewcollective-header.jpg') center top no-repeat;
   background-size: 100% auto;
 }
 .container{width:100%}
@@ -203,7 +203,7 @@ hr {
     height: 357px;
   }
     .header {
-  background: url('../img/header.jpg') center top no-repeat;
+  background: url('http://www.charliecoffee.com.au/image/brewcollective-header.jpg') center top no-repeat;
   background-size: 100% auto;
 }
 .container{width:100%}
