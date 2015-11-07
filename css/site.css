@@ -196,7 +196,7 @@ hr {
     height: 300px;
   }
   .header {
-  background: url('http://www.brewcollective.com.au/image/brewcollective-header.jpg') center top no-repeat;
+  background: url('http://www.brewcollective.com.au/img/brewcollective-header.jpg') center top no-repeat;
   background-size: 100% auto;
 }
 .container{width:100%}
@@ -207,7 +207,7 @@ hr {
     height: 357px;
   }
     .header {
-  background: url('http://www.brecollective.com.au/image/brewcollective-header.jpg') center top no-repeat;
+  background: url('http://www.brecollective.com.au/img/brewcollective-header.jpg') center top no-repeat;
   background-size: 100% auto;
 }
 .container{width:100%}
